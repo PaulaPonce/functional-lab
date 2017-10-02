@@ -1,5 +1,5 @@
 {
-  "name": "0.0.1",
+  "name": "01-state",
   "version": "0.0.1",
   "description": "Primeros ejercicios de programación funcional",
   "main": "lowercaser.js",
