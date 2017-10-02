@@ -1,0 +1,22 @@
+{
+  "name": "01-serialize-user",
+  "version": "0.0.1",
+  "description": "Ejercicio funciones puras",
+  "main": "serialize-user.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "javascript"
+  ],
+  "author": "Paula Ponce",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
