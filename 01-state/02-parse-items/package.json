@@ -1,0 +1,22 @@
+{
+  "name": "02-parse-items",
+  "version": "0.0.1",
+  "description": "Ejercicio inmutabilidad",
+  "main": "parse-items.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "javascript"
+  ],
+  "author": "Paula Ponce",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
