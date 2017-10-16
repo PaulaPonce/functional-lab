@@ -1,0 +1,24 @@
+{
+  "name": "02-logger",
+  "version": "1.0.0",
+  "description": "Ejercicio de aplicación parcial",
+  "main": "logger.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Higher",
+    "Order",
+    "Function",
+    "Partial",
+    "Application"
+  ],
+  "author": "Paula Ponce",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}

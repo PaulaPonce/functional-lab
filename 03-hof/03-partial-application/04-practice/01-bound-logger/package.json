@@ -1,0 +1,25 @@
+{
+  "name": "01-bound-logger",
+  "version": "1.0.0",
+  "description": "Ejercicio de aplicación parcial usando Function#bind",
+  "main": "bound-logger.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Higher",
+    "Order",
+    "Function",
+    "Partial",
+    "Application",
+    "bind"
+  ],
+  "author": "Paula Ponce",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
