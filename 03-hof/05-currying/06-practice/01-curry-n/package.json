@@ -1,0 +1,25 @@
+{
+  "name": "01-curry-n",
+  "version": "1.0.0",
+  "description": "ejercicio de currying",
+  "main": "curry-n.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Higher",
+    "Order",
+    "Function",
+    "currying"
+  ],
+  "author": "Paula Ponce",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "*",
+    "jest": "^21.2.1",
+    "sinon": "*"
+  }
+}
