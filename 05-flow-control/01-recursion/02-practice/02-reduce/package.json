@@ -1,0 +1,22 @@
+{
+  "name": "02-reduce",
+  "version": "1.0.0",
+  "description": "Ejercicios de recursividad",
+  "main": "reduce.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "recursividad"
+  ],
+  "author": "Paula Ponce",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "jest": "^21.2.1",
+    "sinon": "^4.0.1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "01-load-users",
+  "version": "1.0.0",
+  "description": "Ejercicios de asincronía",
+  "main": "load-users.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "Paula Ponce",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "jest": "^21.2.1",
+    "sinon": "^4.0.1"
+  }
+}
